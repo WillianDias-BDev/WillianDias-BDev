@@ -11,7 +11,7 @@
 💻 Minha paixão pela programação e resolução de problemas me impulsionam a explorar  
    novas tecnologias e a criar soluções eficazes.
 
-🌟 Afim de construir algo novo? Aberto a colaborações em projetos e prontos
+🌟 Afim de construir algo novo? Aberto a colaborações em projetos e pronto
    para aprender e crescer juntos.
 `````
 
