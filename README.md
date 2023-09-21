@@ -5,9 +5,6 @@
 📚 Atualmente, estou imerso no mundo do JavaScript, com um forte foco em desenvolvimento backend.
    Estou comprometido com a jornada de aprendizado e aprimoramento constante.
 
-💼 Em busca da minha primeira oportunidade no mercado de trabalho como desenvolvedor,
-   estou ansioso para aplicar meu conhecimento e contribuir para projetos desafiadores.
-
 💻 Minha paixão pela programação e resolução de problemas me impulsionam a explorar  
    novas tecnologias e a criar soluções eficazes.
 
