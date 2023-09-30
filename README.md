@@ -14,7 +14,7 @@
 
 
 #### Social:
- [![Gmail](https://img.shields.io/badge/Gmail-9CE6EF?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:williandavid1092@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-9CE6EF.svg?style=for-the-badge&logo=Instagram&logoColor=grey)](https://www.instagram.com/daviddifloar/) [![LinkedIn](https://img.shields.io/badge/linkedin-9CE6EF.svg?style=for-the-badge&logo=linkedin&logoColor=grey)](https://www.linkedin.com/in/willlian-dias-30798127a/) [![Discord](https://img.shields.io/badge/Discord-9CE6EF.svg?style=for-the-badge&logo=discord&logoColor=grey)](https://discordapp.com/users/412272978420826133)
+ [![Gmail](https://img.shields.io/badge/Gmail-9CE6EF?style=for-the-badge&logo=gmail&logoColor=grey)](mailto:williandavid1092@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-9CE6EF.svg?style=for-the-badge&logo=Instagram&logoColor=grey)](https://www.instagram.com/daviddifloar/) [![LinkedIn](https://img.shields.io/badge/linkedin-9CE6EF.svg?style=for-the-badge&logo=linkedin&logoColor=grey)](https://www.linkedin.com/in/willlian-dias-30798127a/)
 
 #### Frameworks, Plataforms e Bibliotecas:
 ![Express.js](https://img.shields.io/badge/express.js-9CE6EF.svg?style=for-the-badge&logo=express&logoColor=grey) ![Insomnia](https://img.shields.io/badge/Insomnia-9CE6EF?style=for-the-badge&logo=insomnia&logoColor=grey) ![NPM](https://img.shields.io/badge/NPM-9CE6EF.svg?style=for-the-badge&logo=npm&logoColor=grey) ![NodeJS](https://img.shields.io/badge/node.js-9CE6EF?style=for-the-badge&logo=node.js&logoColor=grey) ![Nodemon](https://img.shields.io/badge/NODEMON-9CE6EF.svg?style=for-the-badge&logo=nodemon&logoColor=grey) 
